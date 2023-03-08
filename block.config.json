@@ -1,0 +1,8 @@
+{
+  "name": "todopack",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/todopack",
+    "ssh": "git@github.com:uttahb/todopack.git"
+  }
+}
